@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/jar files/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/lib/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/lib/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/lib/com.beust.jcommander_1.72.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="D:/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/lib/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/lib/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="D:/lib/org.testng_6.14.2.r201802161450.jar"/>
+	<classpathentry kind="lib" path="D:/lib/org.yaml.snakeyaml_1.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/lib/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/selenium-server-standalone-3.13.0 (1).jar"/>
+	<classpathentry kind="lib" path="D:/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/testng-6.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
